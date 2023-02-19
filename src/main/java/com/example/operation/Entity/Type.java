@@ -1,2 +1,6 @@
-package com.example.operation.Entity;public enum Type {
+package com.example.operation.Entity;
+
+public enum Type {
+    Depot,
+    Retrait
 }
